@@ -10,7 +10,7 @@ programa
 		escreva("\n")
 		escreva("(*-*) (^-^)")
 		escreva("\n")
-          escreva("o preço final e: ",p1*0.1+p1
+          escreva("o preço final e: ",p1-p1*0.1
           )
 		
 	}
@@ -20,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 242; 
+ * @POSICAO-CURSOR = 222; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
