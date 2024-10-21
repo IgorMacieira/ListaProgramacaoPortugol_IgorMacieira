@@ -5,7 +5,7 @@ programa
 	funcao inicio()
 	{
 		real x,y,resultado = 0
-		escreva("Esreva um numeroe depois um para fazer a potencia \n")
+		escreva("Esreva um numeros depois um para fazer a potencia \n")
 		leia(x)
 		leia(y)
 		 resultado = mat.potencia(x, y)
